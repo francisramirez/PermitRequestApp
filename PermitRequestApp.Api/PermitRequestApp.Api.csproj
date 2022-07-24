@@ -19,6 +19,7 @@
 
   <ItemGroup>
     <Folder Include="Infrastructure\Data\Exceptions\" />
+    <Folder Include="Infrastructure\Data\ScriptDb\" />
   </ItemGroup>
 
 </Project>
